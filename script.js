@@ -3,7 +3,7 @@
 
   // Replace with a real WhatsApp number in international format, digits only.
   // Example format: 919876543210. Do not include +, spaces, or dashes.
-  const WHATSAPP_NUMBER = '';
+  const WHATSAPP_NUMBER = '7678635065';
 
   const menuButton = document.querySelector('.menu-toggle');
   const navigation = document.querySelector('.primary-nav');
